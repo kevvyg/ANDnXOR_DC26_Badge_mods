@@ -6,5 +6,5 @@ This is the "auto multi-bling" code I posted about here:  https://twitter.com/ke
 
 It disables looping, so you may need to manually loop very short GIFs. Dirty, horrible hack.
 Would not be so dirty if RICK ROLL accepted an integer for loop as opposed to WIN or FAIL 
-You must hold down the left button until you exit for blings that use this. Dirty, horrible hack.
+You must hold down the left button until you exit for blings that use this dirty, horrible hack.
   
